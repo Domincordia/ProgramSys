@@ -1,3 +1,3 @@
-CREATE PROCEDURE sp_SelectAllUsers
+CREATE PROCEDURE sp_SelectAllLocations
 AS
-SELECT * FROM Users
+Select * from LotionInventory
